@@ -1,0 +1,11 @@
+def boxprint(foo):
+	for i in range(len(foo)):
+		print('-',end='')
+	print(foo)
+
+user = input("Enter message:")
+
+print (user)
+from moose import *
+longstring
+

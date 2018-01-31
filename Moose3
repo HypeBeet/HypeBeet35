@@ -1,0 +1,4 @@
+fin = open ('board.txt') #Open file. For reading .
+
+for line in fin:
+	printy(line, end='')
